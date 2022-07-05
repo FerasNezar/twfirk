@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757897488701",
+    "firebase_url": "https://tawfirk-2c80d.firebaseio.com",
+    "project_id": "tawfirk-2c80d",
+    "storage_bucket": "tawfirk-2c80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757897488701:android:5efbdf59e3e73f1765bd54",
+        "android_client_info": {
+          "package_name": "com.kyaan.akwad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757897488701-sok1pqk9ol6dllcjc9bach37t1pjmpdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoj2kjtn17LRAgfa6krXQG6tDmOdtpyzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757897488701-sok1pqk9ol6dllcjc9bach37t1pjmpdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757897488701-d75ml0e8j5oir0sdtef6n8ano4p5com0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.almusand.akwad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

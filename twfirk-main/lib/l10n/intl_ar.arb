@@ -1,0 +1,183 @@
+{
+  "@@last_modified": "2020-02-01T17:32:56.247176",
+  "langEn": "الانجليزية",
+  "@langEn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "مرحبا بك في توفيرك",
+  "@welcome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categories": "فئات",
+  "@categories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shops": "متاجر",
+  "@shops": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_copons": "اخر الكوبونات",
+  "@all_copons": {
+    "type": "text",
+    "placeholders": {}
+  },"yes": "نعم",
+  "@all_copons": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copied": "تم النسخ",
+  "@copied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lang": "اللغه",
+  "@lang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "الدولة",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noti": "الاشعارات",
+  "@noti": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "عن توفيرك",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate": "تقييم التطبيق",
+  "@rate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "مشاركة التطبيق",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy": "سياسة الخصوصية",
+  "@privacy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "terms": "سياسة الاستخدام",
+  "@terms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stores": "محلات",
+  "@stores": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "عروض",
+  "@offers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info": "معلومات",
+  "@info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "langAr": "العربية",
+  "@langAr": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ksa": "السعودية",
+  "@ksa": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eng": "انجلترا",
+  "@eng": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_lang": "اختر اللغه والدولة",
+  "@choose_lang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "التالي",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "التالي",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shoping": "تسوق",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentlang": "English",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": "موافق",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nodata": "لا توجد بيانات",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "بحث",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appname": "توفيرك",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyMsg": "تم النسخ هل تريد التسوق الان ؟",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyCode": "إنسخ الكود",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copy": "نسخ",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "لا",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "all": "الكل",
+     "@next": {
+       "type": "text",
+       "placeholders": {}
+     }
+
+}

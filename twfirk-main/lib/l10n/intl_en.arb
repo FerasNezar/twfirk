@@ -1,0 +1,182 @@
+{
+  "@@last_modified": "2020-02-01T17:32:56.247176",
+  "langEn": "English",
+  "@langEn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome To Tawfirk",
+  "@welcome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categories": "Categories",
+  "@categories": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shops": "Shops",
+  "@shops": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_copons": "Latest Coupons",
+  "@all_copons": {
+    "type": "text",
+    "placeholders": {}
+  },"yes": "Yes",
+  "@all_copons": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copied": "Copied to Clipboard",
+  "@copied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lang": "Language",
+  "@lang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "Country",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noti": "Notifications",
+  "@noti": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About Tawfirk",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate": "Rate App",
+  "@rate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "Share App",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy": "Privacy Policy",
+  "@privacy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "terms": "Terms of use",
+  "@terms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stores": "Stores",
+  "@stores": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "Offers",
+  "@offers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info": "Info",
+  "@info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "langAr": "Arabic",
+  "@langAr": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ksa": "Ksa",
+  "@ksa": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eng": "England",
+  "@eng": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_lang": "Choose Language & Country",
+  "@choose_lang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "Start",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shoping": "Shop",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentlang": "العربية",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": "Confirm & Agree",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nodata": "No Data !",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appname": "Tawfirk",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "copyMsg": "Link Copied ,Do you want to Shop now ?",
+     "@next": {
+       "type": "text",
+       "placeholders": {}
+     },
+     "copyCode": "Copy code",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "copy": "Copy",
+     "@next": {
+       "type": "text",
+       "placeholders": {}
+     },
+     "no": "No",
+     "@next": {
+       "type": "text",
+       "placeholders": {}
+     },
+        "all": "All",
+        "@next": {
+          "type": "text",
+          "placeholders": {}
+        }
+}
